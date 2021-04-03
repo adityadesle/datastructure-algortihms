@@ -21,6 +21,7 @@ Boolean                   Queue
   
   
   Algorithms:
+  
   *Simple recursive
   *divide and conquer
   *dynamic

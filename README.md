@@ -28,3 +28,8 @@ Boolean                   Queue
   *greedy
   *brute force
   *Randomized
+  
+  
+  
+  Topic 1:
+  Recursion : Factorial , Fibonacci , Sum of Digits, Power of Number , Greatest Common divisor ,Decimal to binary.

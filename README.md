@@ -33,3 +33,8 @@ Boolean                   Queue
   
   Topic 1:
   Recursion : Factorial , Fibonacci , Sum of Digits, Power of Number , Greatest Common divisor ,Decimal to binary.
+  
+  Topic 2:
+  Time Complexity : Big O for Best , worst and Average Case.
+  
+  
